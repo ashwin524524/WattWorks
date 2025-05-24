@@ -1,0 +1,69 @@
+page1
+
+How to play
+
+howToPlay.png
+
+No formulas for first page
+
+First, read the objective of the puzzle to find out what to do. Decide on which component you want to use from the component menu, then select a value to have it pop up in the main puzzle panel. Then drag and drop the component to the missing space in the circuit. If you solve it correctly, the title will become green and your time will be stopped. 
+
+Once you have correctly solved the puzzle, you must answer the analysis question in the bottom left box to fully complete the challenge. Use the needed formulas and enter your answer in the right text field. If your answer is correct, the text box will turn green and show correct. If it is wrong, you will be prompted to answer again. 
+
+When solving the puzzle you may use the instruction book button at any time. Your progress will be saved, but the timer will keep running while you view a formula or function of a specific component.
+
+page2
+
+Resistors
+
+voltageDivider.png
+
+I=V/R, R1/(R1 + R2)
+
+Resistors play a key part in almost all circuits, and they are somewhere between conductors and insulators. Essentially, resistors are able to limit current based on the voltage placed across them. One of the most common formula you will come across shows the relationship between voltage, current, and resistance, which is I = V/R. I is the Current in amperes, V is the voltage across the resistor, and R is the resistance value of the resistor, measured in ohms(Ω). 
+
+The equation can be rearranged using simple algebra to either calculate the current passing through a circuit or the voltage drop across a resistor. For example, a 100 ohm resistor with a voltage of 5 volts across it will pull a current of 0.05 amps, or 50 mA.
+
+Another basic use of resistors is the resistor divider, which can "divide" a voltage for reading. A resistor divider consists of two resistors in series, with the divided voltage in the middle. The formula is R1/(R1 + R2), where R1 is the first resistor, on the positive side, and R2 is the second resistor.
+
+
+page3
+
+Capacitors
+
+circuit1.png
+
+C = Q/V, C_total = C1 + C2 + C3, E = 0.5 × C × V²,
+
+A capacitor is an electronic component that stores energy in an electric field. It has two metal plates separated by an insulating material. The ability of a capacitor to store electric charge is called capacitance, which is measured in farads (F). The formula to calculate capacitance is C = Q / V, where C is the capacitance, Q is the charge stored, and V is the voltage across the capacitor. Capacitors are commonly used in circuits for things like storing energy, filtering signals, and setting timing.
+
+Capacitors can be connected together in two main ways: in parallel or in series. When connected in parallel, the total capacitance is the sum of all the individual capacitances:
+C_total = C1 + C2 + C3 + ...
+When connected in series, the total capacitance is found by adding the reciprocals:
+1 / C_total = 1 / C1 + 1 / C2 + 1 / C3 + ...
+The energy a capacitor can store is given by the formula:
+E = 0.5 × C × V²,
+where E is the energy in joules, C is the capacitance, and V is the voltage across the capacitor.
+
+page4
+
+Inductors
+
+circuit1.png
+
+V = L × (ΔI / Δt), L_total = L1 + L2 + L3, E = 0.5 × L × I²,
+
+An inductor is an electrical component that stores energy in a magnetic field when current flows through it. It typically consists of a coil of wire. The ability of an inductor to store magnetic energy is called inductance, measured in henrys (H). The formula that relates inductance to voltage and the rate of change of current is:
+V = L × (ΔI / Δt),
+where V is the voltage across the inductor, L is the inductance, and ΔI / Δt is the rate of change of current over time. Inductors are used in circuits to resist changes in current, filter signals, and store energy.
+
+Second paragraph (series/parallel and energy):
+Inductors can also be connected in series or in parallel. When connected in series, the total inductance adds up just like resistors:
+L_total = L1 + L2 + L3 + ...
+When connected in parallel, the reciprocals of the inductances add up:
+1 / L_total = 1 / L1 + 1 / L2 + 1 / L3 + ...
+The energy stored in an inductor is given by the formula:
+E = 0.5 × L × I²,
+where E is the energy in joules, L is the inductance, and I is the current through the inductor.
+
+page5

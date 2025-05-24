@@ -1,0 +1,18 @@
+Puzzle: Inductor
+
+Image: puzzle#2.png
+
+Objective:
+Place a resistor to limit the current through the LED and prevent it from burning out. The total resistance should be 220Ω.
+
+Question:
+If the LED has a forward voltage of 2V and the power supply is 5V, how much current (A) flows through the circuit?
+
+Answer:
+0.0136A
+
+DragLocation:
+180 90
+
+Component:
+resistors 1k

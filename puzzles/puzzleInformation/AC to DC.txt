@@ -1,0 +1,15 @@
+Puzzle: LED
+
+Image: puzzle#1.png
+
+Objective:
+Make the LED light up without burning out.
+
+Question:
+How much current is expected to flow through the resistor?
+
+Answer:
+100 mA
+
+DragLocation:
+300 250

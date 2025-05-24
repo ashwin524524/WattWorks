@@ -1,0 +1,18 @@
+Puzzle: Full Bridge Rectifier
+
+Image: puzzle#6.png
+
+Objective:
+Place the missing diode (D1) to complete the full bridge rectifier. The diode must allow current to flow during the negative half-cycle.
+
+Question:
+Why is it important for a full bridge rectifier to have all four diodes properly connected?
+
+Answer:
+Without all four diodes, the circuit won’t rectify both halves of the AC signal, and the output won't be a full-wave DC signal.
+
+DragLocation:
+265 135
+
+Component:
+misc. diode

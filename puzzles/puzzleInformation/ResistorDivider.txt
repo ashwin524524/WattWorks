@@ -1,0 +1,18 @@
+Puzzle: ResistorDivider
+
+Image: puzzle#1.png
+
+Objective:
+Place the correct resistor so that the red tag has reads a voltage of 0.25v. 
+
+Question:
+How much current would pass if there were 2 resistors of the same value in parallel instead of 1?
+
+Answer:
+30 mA
+
+DragLocation:
+440 340
+
+Component:
+resistors 10k

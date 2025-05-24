@@ -1,0 +1,20 @@
+DW, 60, 100, 80, 5, right          
+
+
+DW, 220, 100, 80, 5, left          
+inductor.png, 280, 65              
+TXT, 10mH, 320, 135                 
+
+DW, 340, 100, 80, 5, right         
+led.png, 415, 10                  
+TXT, LED, 440, 80                 
+
+DW, 460, 100, 5, 100, down       
+DW, 100, 200, 360, 5, right         
+
+battery1.5v.png, 50, 150              
+TXT, 5V, 70, 140  
+DW, 60, 100, 5, 100, up                
+
+                
+plus.png, 60, 180              

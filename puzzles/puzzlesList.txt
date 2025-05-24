@@ -1,0 +1,26 @@
+level1
+LED
+Capacitor
+Inductor
+
+level2
+ResistorDivider
+FullBridgeRectifier
+
+
+level3
+DC to AC
+currents
+
+
+level4
+456
+456
+567
+
+
+level5
+555
+506
+
+level6

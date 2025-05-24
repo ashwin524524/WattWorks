@@ -1,0 +1,14 @@
+DW, 115, 150, 100, 5, left
+DW, 115, 150, 5, 200, down
+DW, 115, 350, 300, 5, right
+DW, 130, 165, 100, 5, left
+DW, 130, 165, 5, 100, down
+DW, 130, 265, 288, 5, right
+powerSupply.png, 150, 50
+capacitor.png, 250, 312
+TXT, 9nF, 350, 312
+DW, 335, 350, 100, 5, right
+DW, 615, 150, 5, 200, up
+DW, 340, 300, 5, 25, down
+minus.png, 450, 250
+plus.png, 450, 340

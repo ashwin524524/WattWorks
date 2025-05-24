@@ -1,0 +1,11 @@
+DW, 115, 150, 100, 5, left
+DW, 115, 150, 5, 200, down
+DW, 115, 350, 180, 5, right
+DW, 350, 350, 85, 5, right
+DW, 540, 350, 75, 5, right
+DW, 615, 150, 5, 200, up
+DW, 515, 150, 100, 5, left
+battery1.5v.png, 200, 100
+resistor.jpg, 270, 335
+redPin.png, 340, 257
+TXT, 2k ohms, 275, 375

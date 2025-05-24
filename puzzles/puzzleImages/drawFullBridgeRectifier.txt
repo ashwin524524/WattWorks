@@ -1,0 +1,32 @@
+DW, 60, 100, 85, 5, right
+DW, 60, 100, 5, 200, down
+
+plus.png, 80,125
+DW, 100, 140, 40, 5, right
+
+diode.png, 160, 90
+TXT, D2, 160, 88
+
+diode.png, 160, 140
+
+TXT, D3, 160, 138
+
+diode.png, 250, 90
+TXT, D4, 250, 88
+
+DW, 145, 100, 5, 60, down
+DW, 360, 100, 5, 60, down
+
+
+
+DW, 260, 140, 5, 50, down
+DW, 100, 200, 165, 5, right
+DW, 100, 200, 5, 100, down
+
+DW, 360, 140, 60, 5, down
+minus.png, 430, 125
+
+powerSupply.png, 60, 200
+TXT, AC IN, 60, 88
+
+

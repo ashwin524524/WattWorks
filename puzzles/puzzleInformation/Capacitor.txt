@@ -1,0 +1,18 @@
+Puzzle: Capacitor
+
+Image: puzzle#1.png
+
+Objective:
+Place a capacitor to smooth the power supply output, make the total capacitance 10nF
+
+Question:
+How much energy (j) is the capacitor you placed storing?
+
+Answer:
+10j
+
+DragLocation:
+250 260
+
+Component:
+capacitors 1nf 
